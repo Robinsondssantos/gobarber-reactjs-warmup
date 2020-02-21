@@ -1,1 +1,1 @@
-# gobarber-web-app
+# gobarber-reactjs-warmup
